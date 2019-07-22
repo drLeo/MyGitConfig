@@ -1,0 +1,11 @@
+[alias]
+	br 	= branch
+	stn 	= status -uno
+	st	= status
+	rb 	= rebase
+	ft 	= fetch
+	co 	= checkout
+	rs 	= reset
+	df 	= diff
+	ol	= log --pretty=oneline --decorate=full
+        sf 	= diff-tree --no-commit-id --name-status -r
